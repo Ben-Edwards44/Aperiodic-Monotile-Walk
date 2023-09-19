@@ -1,10 +1,12 @@
 # Aperiodic Monotile Random Walk
 
 ![Example with 5 iterations and length 3.4](./Images/random-walk-5iterspng.png)
+
 *A random walk with 5 tile iterations*
 
 
 ![Spectre tile tiling with 2 iterations](./Images/spectre-tiling.png)
+
 *The spectre tiling*
 
 
