@@ -1,9 +1,10 @@
 # Aperiodic Monotile Random Walk
 
-A random walk with 5 tile iterations:
+*A random walk with 5 tile iterations*
 ![Example with 5 iterations and length 3.4](./Images/random-walk-5iterspng.png)
 
-The spectre tiling:
+*The spectre tiling*
+
 ![Spectre tile tiling with 2 iterations](./Images/spectre-tiling.png)
 
 This visulisation is a random walk of the positions of tiles from the weakly chiral aperiodic monotile Tile(1, 1), or 'spectre' tile tilings.
