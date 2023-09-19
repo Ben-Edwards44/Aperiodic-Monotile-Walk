@@ -18,3 +18,5 @@ For each position in the list, the product of the x and y coordinates is calcula
 A line of arbitary length is then drawn at this angle from the end position of the previous line. The colour of the line is based on the angle to which it is drawn.
 
 In summary, the positions of each tile from the tiling of the spectre monotile are converted into angles by multiplying the x and y coordinates and computing the remainder when divided by 360. Lines are then iteratively drawn at these angles.
+
+Read the original research paper of the spectre monotile [here](https://arxiv.org/pdf/2305.17743.pdf) and the hat monotile [here](https://arxiv.org/pdf/2303.10798.pdf).
