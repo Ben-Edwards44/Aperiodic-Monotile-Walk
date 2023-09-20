@@ -16,7 +16,7 @@ This visulisation is a random walk of the positions of tiles from the weakly chi
 
 1. The tiling is generated the same way that it is in [this web app](https://cs.uwaterloo.ca/~csk/spectre/app.html) and [this repository](https://github.com/shrx/spectre).
 2. Each time a tile is drawn, the average postion of all its vertices is added to a list.
-3. For each position $`(x, y)`$ in the list, the calculation $`(x × y) \bmod 360`$ is performed to produce and angle between 0 and 360 degrees.
+3. For each position $`(x, y)`$ in the list, the calculation $`xy \bmod 360`$ is performed to produce and angle between 0 and 360 degrees.
 4. A line of arbitary length is then drawn at this angle from the end position of the previous line. The colour of the line is based on the angle to which it is drawn.
 5. This process is repeated until a line has been drawn for each tile.
 
