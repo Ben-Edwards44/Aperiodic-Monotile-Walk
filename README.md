@@ -2,10 +2,11 @@
 
 This visulisation is a random walk of the positions of tiles from the weakly chiral aperiodic monotile Tile(1, 1), or 'spectre' tile.
 
+![An animated gif](./Images/walk-gif.gif)
+
 ![Example with 5 iterations and length 3.4](./Images/random-walk-5iterspng.png)
 
 *A random walk with 5 tile iterations*
-
 
 ![Spectre tile tiling with 2 iterations](./Images/spectre-tiling.png)
 

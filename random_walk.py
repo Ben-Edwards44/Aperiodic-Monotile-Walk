@@ -43,7 +43,7 @@ def draw_line(x1, y1, x2, y2, colour_inx):
 
 
 def nums_text(num):
-    text_surf = font.render(f"Number of lines: {num}", False, (255, 255, 255), (0, 0, 0))
+    text_surf = font.render(f"Number of tiles: {num}", False, (255, 255, 255), (0, 0, 0))
     text_rect = text_surf.get_rect()
     text_rect.topleft = (50, 50)
 
